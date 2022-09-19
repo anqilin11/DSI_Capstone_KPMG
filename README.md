@@ -4,9 +4,11 @@ This is the GitHub repository for Fall 2022 Columbia University MS in Data Scien
 
 
 ## Team members
+  - **Elvy Chen** - [GitHub](https://github.com/elvychen)
 
   - **Anne Lin** - [GitHub](https://github.com/anqilin11)
     
   - **Mengchen Xu** - [GitHub](https://github.com/Helen962)
-
+  
+  - **Yue Zhang** - [GitHub](https://github.com/stellazhangyue)
 
