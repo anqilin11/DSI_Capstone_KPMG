@@ -5,9 +5,8 @@
 
 ## Team members
 
-  - **Anne Lin** - *Provided README Template* -
-    [PurpleBooth](https://github.com/anqilin11)
+  - **Anne Lin** - [GitHub](https://github.com/anqilin11)
     
-  - **Mengchen Xu** - [PurpleBooth](https://github.com/Helen962)
+  - **Mengchen Xu** - [GitHub](https://github.com/Helen962)
 
 
