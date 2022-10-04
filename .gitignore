@@ -1,5 +1,5 @@
 
 datafiles/*
 .DS_Store
-datafiles/census_tract_WA_2021/cb_2021_53_tract_500k.shp.ea.iso.xml
 geojson/zipcode_2018_us.geojson
+shapefile/*
