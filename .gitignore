@@ -1,5 +1,5 @@
 
-datafiles/*
+rawdata/*
 .DS_Store
 geojson/zipcode_2018_us.geojson
 shapefile/*
