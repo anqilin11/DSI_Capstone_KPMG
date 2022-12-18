@@ -1,4 +1,4 @@
-# Columbia DSI Capstone Project Fall 2022 - KPMG
+# Columbia DSI x KPMG Lighthouse Capstone Project Fall 2022
 
 This is the GitHub repository for Fall 2022 Columbia University MS in Data Science Capstone project collaborating with KPMG.
 
