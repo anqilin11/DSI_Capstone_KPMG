@@ -13,7 +13,8 @@ This is the GitHub repository for Fall 2022 Columbia University MS in Data Scien
   - **Yue Zhang** - [GitHub](https://github.com/stellazhangyue)
 
 
-## The Final Data File we used is "DSI_Capstone_KPMG/4_Preprocessing/Data/main_dataset_all_interstate_all_route_10mi_w_income.csv"
+### The Final Data File we used is:
+- "DSI_Capstone_KPMG/4_Preprocessing/Data/main_dataset_all_interstate_all_route_10mi_w_income.csv"
 The data schema is as follows:
 
 | Features                        | Type           | 
