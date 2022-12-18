@@ -17,7 +17,7 @@ This is the GitHub repository for Fall 2022 Columbia University MS in Data Scien
 - "DSI_Capstone_KPMG/4_Preprocessing/Data/main_dataset_all_interstate_all_route_10mi_w_income.csv"
 The data schema is as follows:
 
-| Features                        | Type           | 
+| Features                        | Data Type           | 
 |---------------------------------|:-------------:| 
 | gas_key                         | Numerical |  
 | gas_name                        |    Categorical   |    
