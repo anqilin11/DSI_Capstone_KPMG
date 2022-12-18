@@ -1,0 +1,42 @@
+GEO_ID,NAME,B08131_001E,B08131_001EA,B08131_001M,B08131_001MA,B08131_002E,B08131_002EA,B08131_002M,B08131_002MA,B08131_003E,B08131_003EA,B08131_003M,B08131_003MA,B08131_004E,B08131_004M,B08131_004MA,B08131_004EA,B08131_005E,B08131_005M,B08131_005MA,B08131_005EA
+0400000US53,Washington,72158295,null,828119,null,68684495,null,773838,null,49014320,null,733755,null,19670175,551157,null,null,3473805,304584,null,null
+0500000US53005,"Benton County, Washington",1769610,null,139737,null,1657875,null,134995,null,1122795,null,84079,null,535080,87618,null,null,111735,58161,null,null
+0500000US53007,"Chelan County, Washington",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+0500000US53009,"Clallam County, Washington",504465,null,55084,null,493285,null,50816,null,429870,null,45698,null,63415,25770,null,null,11180,10638,null,null
+0500000US53011,"Clark County, Washington",4424260,null,185463,null,2734075,null,171313,null,2356845,null,128921,null,377230,109776,null,null,1690185,137602,null,null
+0500000US53015,"Cowlitz County, Washington",1100250,null,109064,null,842230,null,69524,null,577905,null,62789,null,264325,56408,null,null,258020,87578,null,null
+0500000US53021,"Franklin County, Washington",917055,null,87131,null,880770,null,87746,null,374665,null,56260,null,506105,77434,null,null,36285,33032,null,null
+0500000US53025,"Grant County, Washington",804665,null,94947,null,788020,null,94688,null,709135,null,83612,null,78885,47551,null,null,16645,21835,null,null
+0500000US53027,"Grays Harbor County, Washington",521100,null,61572,null,520655,null,61544,null,385105,null,46674,null,135550,47831,null,null,445,607,null,null
+0500000US53029,"Island County, Washington",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+0500000US53033,"King County, Washington",19813590,null,465422,null,19525000,null,454262,null,17443530,null,448696,null,2081470,169994,null,null,288590,112029,null,null
+0500000US53035,"Kitsap County, Washington",2789365,null,180820,null,2711945,null,170968,null,1903490,null,108247,null,808455,138944,null,null,77425,52285,null,null
+0500000US53041,"Lewis County, Washington",888000,null,99120,null,852925,null,96096,null,383190,null,54183,null,469730,91428,null,null,35080,29593,null,null
+0500000US53045,"Mason County, Washington",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+0500000US53053,"Pierce County, Washington",11673670,null,362528,null,11549995,null,354248,null,6381380,null,270019,null,5168615,336868,null,null,123675,74030,null,null
+0500000US53057,"Skagit County, Washington",1221605,null,100776,null,1207045,null,99682,null,634790,null,70690,null,572255,88375,null,null,14560,9698,null,null
+0500000US53061,"Snohomish County, Washington",8871235,null,302056,null,8804875,null,296706,null,4652680,null,211843,null,4152195,307372,null,null,66360,46881,null,null
+0500000US53063,"Spokane County, Washington",4576080,null,200559,null,4268510,null,175600,null,4063355,null,179984,null,205155,70092,null,null,307570,95093,null,null
+0500000US53067,"Thurston County, Washington",2753410,null,155162,null,2738315,null,154164,null,1319530,null,129961,null,1418785,151524,null,null,15090,11772,null,null
+0500000US53073,"Whatcom County, Washington",1946575,null,151588,null,1915245,null,150791,null,1578470,null,133464,null,336775,80775,null,null,31330,17968,null,null
+0500000US53077,"Yakima County, Washington",1973205,null,150799,null,1946070,null,150900,null,1714360,null,127993,null,231710,81490,null,null,27135,32916,null,null
+1600000US5303180,"Auburn city, Washington",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1600000US5305210,"Bellevue city, Washington",850705,null,96849,null,843135,null,96164,null,774470,null,90358,null,68665,26388,null,null,7570,7266,null,null
+1600000US5305280,"Bellingham city, Washington",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1600000US5322640,"Everett city, Washington",1191485,null,90535,null,1191485,null,90535,null,683710,null,83242,null,507775,82066,null,null,-,**,**,-
+1600000US5323515,"Federal Way city, Washington",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1600000US5335275,"Kennewick city, Washington",696560,null,81275,null,611030,null,83713,null,374975,null,63673,null,236055,61856,null,null,85530,59224,null,null
+1600000US5335415,"Kent city, Washington",1557010,null,144803,null,1521710,null,133913,null,1399605,null,131363,null,122105,35472,null,null,35300,37168,null,null
+1600000US5335940,"Kirkland city, Washington",558515,null,69230,null,548725,null,69314,null,480285,null,58707,null,68440,29140,null,null,9790,6420,null,null
+1600000US5343955,"Marysville city, Washington",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1600000US5353545,"Pasco city, Washington",799885,null,91822,null,763600,null,90273,null,316340,null,51556,null,447260,76417,null,null,36285,33032,null,null
+1600000US5357535,"Redmond city, Washington",393085,null,72604,null,393085,null,72604,null,371830,null,69374,null,21255,17308,null,null,-,**,**,-
+1600000US5357745,"Renton city, Washington",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
+1600000US5361115,"Sammamish city, Washington",457650,null,86837,null,457650,null,86837,null,422910,null,83643,null,34740,27187,null,null,-,**,**,-
+1600000US5363000,"Seattle city, Washington",6129280,null,272374,null,6016055,null,275913,null,5479035,null,282204,null,537020,96899,null,null,113225,82141,null,null
+1600000US5365922,"South Hill CDP, Washington",892430,null,133321,null,870430,null,127476,null,492855,null,78554,null,377575,98370,null,null,22000,30079,null,null
+1600000US5367000,"Spokane city, Washington",1706615,null,107923,null,1674190,null,108508,null,1628915,null,103737,null,45275,22842,null,null,32425,16294,null,null
+1600000US5367167,"Spokane Valley city, Washington",1042075,null,100953,null,896960,null,91792,null,878615,null,94023,null,18345,18688,null,null,145115,57358,null,null
+1600000US5370000,"Tacoma city, Washington",2416860,null,177877,null,2416860,null,177877,null,1344455,null,115683,null,1072400,149510,null,null,-,**,**,-
+1600000US5374060,"Vancouver city, Washington",1672315,null,124962,null,912660,null,93331,null,788240,null,65308,null,124420,50562,null,null,759655,96156,null,null
+1600000US5380010,"Yakima city, Washington",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null
