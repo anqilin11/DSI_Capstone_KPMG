@@ -1,4 +1,5 @@
-# Columbia DSI Capstone Project Fall 2022 - KPMG
+# Columbia DSI x KPMG Lighthouse Capstone Project Fall 2022
+## Optimization on EV Charging Station Locations in Washington Shate
 
 This is the GitHub repository for Fall 2022 Columbia University MS in Data Science Capstone project collaborating with KPMG.
 
