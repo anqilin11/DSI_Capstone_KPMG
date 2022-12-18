@@ -2,6 +2,7 @@
 
 This is the GitHub repository for Fall 2022 Columbia University MS in Data Science Capstone project collaborating with KPMG.
 
+* Note that the path in .ipynb files may need to manually adjust case by case becasue we've done all the works on Google Drive.
 
 ## Team members
   - **Yu-Chieh Elvy Chen** - [GitHub](https://github.com/elvychen), [LinkedIn](https://www.linkedin.com/in/elvychen/)
